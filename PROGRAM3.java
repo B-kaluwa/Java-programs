@@ -1,0 +1,2 @@
+public class PROGRAM3 {
+}
